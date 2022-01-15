@@ -1,0 +1,26 @@
+content:
+- Iterator and Iterable
+- Factory method
+- Custom threads
+- Throwing exceptions
+- Processing strings
+- Thread management
+- LocalDate
+- Iterating over arrays
+- The while and do-while loops
+- Runtime type checking
+- Default methods
+- Anonymous classes
+- NPE
+- Thread synchronization
+- Lambda expressions
+- Type Bounds
+- Functional interfaces
+- Encapsulating object creation
+- Executors
+- Type Erasure
+- Package
+- Static members
+- The List interface
+- The Set interface
+- Recursion
